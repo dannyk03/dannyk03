@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danny 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dannk03.dannk03)
 </h1>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dannk03.dannk03)
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&color=33FF33&size=30&center=true&vCenter=true&width=500&height=100&lines=Senior+Software+Engineer;DevOps+Engineer;Mobile+Application+Developer"></a>
