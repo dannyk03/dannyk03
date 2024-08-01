@@ -19,11 +19,10 @@
   
 - 🌱 I’m currently **freelancing**
 
-- 👨‍💻 All of my projects are available [here](https://www.dannyk03.com/work/projects)
+- 👨‍💻 All of my projects are available [here](https://dannyk03.com)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **danny.kaganovitch@gmail.com**
 
 ### 🤝 Connect with me:
 
