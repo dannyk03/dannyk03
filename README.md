@@ -1,106 +1,62 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm Danny 
-</h1>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dannk03.dannk03)
-
+<h1 align="center">Danny Kaganovitch</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&color=33FF33&size=30&center=true&vCenter=true&width=500&height=100&lines=Senior+Software+Engineer;DevOps+Engineer;Mobile+Application+Developer"></a>
+  <b>Full-Stack + AI Engineer</b><br>
+  AI Integration · Agents · RAG · MCP Servers — on Node.js and TypeScript
 </p>
-
-<br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannyk03&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="dannyk03" /></a>
+  <a href="https://dannyk03.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/dannykg/">LinkedIn</a> ·
+  <a href="https://calendly.com/danny-kaganovitch/15min">Book 15 min</a>
 </p>
 
-<br>
-  
-- 🌱 I’m currently **freelancing**
+---
 
-- 👨‍💻 All of my projects are available [here](https://dannyk03.com)
+I'm a full-stack engineer who became an AI engineer — and that combination is the whole point. Ten-plus years shipping Node.js and TypeScript systems, now building AI into them.
 
-- 💬 Ask me about **Web Development**
+Most AI work stalls because the model is the easy part. An agent is only as good as the system around it: clean data access, reliable tool integrations, state that persists, and a frontend people will actually use. I've spent a decade building those load-bearing parts, so the AI layer sits on a foundation instead of replacing one.
 
+### What I build
 
-### 🤝 Connect with me:
+- **AI integration** — intelligent features inside the product you already have, with cost controls, fallbacks and tests. No rewrite.
+- **AI agents & RAG** — retrieval tuned so answers cite real sources, tool calling so the agent can act, and evaluation so accuracy is measured rather than assumed.
+- **MCP servers** — your databases, internal APIs and tools exposed to Claude or ChatGPT through the Model Context Protocol. Typed tools, scoped auth, read-only by default.
+- **Enterprise systems** — one agent across Salesforce, NetSuite and MonetizeNow, automating quote-to-cash steps that used to move by hand between CRM, ERP and billing.
+- **Full-stack delivery** — production APIs on Express or NestJS, complete MVPs, browser-driven data collection with NestJS and Playwright.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.dannyk03com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danyk03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannykg)
+### Stack
 
+**AI**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Vector%20DB-FF6B00?style=for-the-badge&logoColor=white)
 
-### 📊 Stats
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannyk03&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="danny's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dannyk03&theme=tokyonight&hide_border=true" alt="danny's github streak" width="48%" >
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Data & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Background
+
+Freelancing since 2020 — 4,000+ hours on Upwork, 96% Job Success, Top Rated. Before that, Solution Architect at **Oracle** and automation engineering at **Amdocs**, building for AT&T, Comcast and Vodafone.
 
 ---
 
-### 🧑‍💻 Languages
-
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.dannyk03.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.dannyk03.com)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.dannyk03.com)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.dannyk03.com)
-[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.dannyk03.com)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.dannyk03.com)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.dannyk03.com)
-[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://www.dannyk03.com)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.dannyk03.com)
-
-### 🧩 Frameworks/Libraries
-
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.dannyk03.com)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.dannyk03.com)
-[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.dannyk03.com)
-[![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.dannyk03.com)
-[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.dannyk03.com)
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://www.dannyk03.com)
-[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://www.dannyk03.com)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.dannyk03.com)
-
-### 🗃️ Databases
-
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.dannyk03.com)
-[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.dannyk03.com)
-
-### ⚒️ Tools
-
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://www.dannyk03.com)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.dannyk03.com)
-[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.dannyk03.com)
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://www.dannyk03.com)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.dannyk03.com)
-[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.dannyk03.com)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.dannyk03.com)
-[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.dannyk03.com)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.dannyk03.com)
-[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://www.dannyk03.com)
-[![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.dannyk03.com)
-[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://www.dannyk03.com)
-
-### 🧠 IDEs/Text Editors I use
-
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://www.dannyk03.com)
-[![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.dannyk03.com)
-[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.dannyk03.com)
-[![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.dannyk03.com)
-[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://www.dannyk03.com)
-[![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://www.dannyk03.com)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://www.dannyk03.com)
-
-### 💻 Workspace
-
-[![ubuntu](https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.dannyk03.com)
-[![mac](https://img.shields.io/badge/mac-0078D6?style=for-the-badge&logo=mac&logoColor=white)](https://www.dannyk03.com)
-
----
-
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
-
-
+<p align="center">
+  <i>Tell me what you're trying to build and I'll tell you honestly whether I'm the right fit.</i>
+</p>
